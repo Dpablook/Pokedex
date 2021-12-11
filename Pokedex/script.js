@@ -1,7 +1,3 @@
-// alert("hola");
-
-
-
 let pokeId = document.querySelector('[data-poke-id]');
 let pokeImg = document.querySelector('[data-poke-img]');
 let pokeName = document.querySelector('[data-poke-name]');
